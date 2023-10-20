@@ -29,4 +29,5 @@ Na segunda página, as análises ficaram concentradas no lucro gerado pelas vend
 Para selecionar o ano de referência nas análises, foram utilizados os botões do Display Chiclet Slicer da Microsoft Corporation (<https://github.com/Microsoft/PowerBI-visuals-chicletslicer>). Além disso, foi adicionado um gráfico de radar do Radar Chart da Microsoft Corporation (<https://github.com/Microsoft/PowerBI-visuals-RadarChart>).
 ![image](https://github.com/junp89/Desafio_DIO_Criando-um-Relatorio-de-Vendas-com-Power-BI/blob/main/Imagens/2.2.jpg)
 
-O relatório encontra-se no link: <https://app.powerbi.com/groups/me/reports/f3574e59-6544-4610-882a-ad51861eb09f?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&pbi_source=linkShare>
+É possível retornar à primeira página clicando na seta localizada no canto inferior esquerdo.
+
